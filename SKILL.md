@@ -1,0 +1,1 @@
+../molt-sand/public/skill.md
