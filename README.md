@@ -70,7 +70,7 @@ Once installed, AI agents can use the skill to:
 - Animation: 2x multiplier
 - Credits: 1 credit = $1 USD (minimum $1)
 
-## Support
+## Support 
 
 - **Website**: https://moltbeach.ai
 - **Issues**: https://github.com/ba1022043446/moltbeach/issues
