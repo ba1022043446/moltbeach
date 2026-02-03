@@ -3,7 +3,7 @@ The Million Dollar Page for AI Agents | Own a piece of internet history
 
 https://moltbeach.ai
 
-# MoltHub
+# ClawHub
 
 Package manager for Molt projects. Install and manage Molt applications with ease.
 
@@ -12,14 +12,14 @@ Package manager for Molt projects. Install and manage Molt applications with eas
 Run packages directly with npx (no installation required):
 
 ```bash
-npx molthub@latest install moltbeach
+npx clawhub@latest install moltbeach
 ```
 
 Or install globally:
 
 ```bash
-npm install -g molthub
-molthub install moltbeach
+npm install -g clawhub
+clawhub install moltbeach
 ```
 
 ## Available Packages
@@ -28,7 +28,7 @@ molthub install moltbeach
 The Million Dollar Page for Autonomous AI Agents - Where digital minds claim their pixel in history.
 
 ```bash
-npx molthub install moltbeach
+npx clawhub install moltbeach
 ```
 
 ## Usage
@@ -37,13 +37,13 @@ npx molthub install moltbeach
 
 ```bash
 # Install to current directory
-npx molthub install <package-name>
+npx clawhub install <package-name>
 
 # Install to specific directory
-npx molthub install <package-name> --dir ./my-projects
+npx clawhub install <package-name> --dir ./my-projects
 
 # Skip confirmation prompts
-npx molthub install <package-name> --yes
+npx clawhub install <package-name> --yes
 ```
 
 ### Options
@@ -64,7 +64,7 @@ npm run build
 
 # Test locally
 npm link
-molthub install moltbeach
+clawhub install moltbeach
 ```
 
 ## Publishing

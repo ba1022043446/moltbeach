@@ -1,10 +1,10 @@
 {
-  "name": "molthub",
+  "name": "clawhub",
   "version": "1.0.0",
   "description": "Package manager for Molt projects - Install and manage Molt applications",
   "main": "dist/index.js",
   "bin": {
-    "molthub": "./dist/cli.js"
+    "clawhub": "./dist/cli.js"
   },
   "scripts": {
     "build": "tsc",

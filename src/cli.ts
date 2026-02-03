@@ -7,7 +7,7 @@ import { version } from '../package.json';
 const program = new Command();
 
 program
-  .name('molthub')
+  .name('clawhub')
   .description('Package manager for Molt projects')
   .version(version);
 
